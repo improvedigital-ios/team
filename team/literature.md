@@ -174,7 +174,7 @@
 
   **Рецензия:** *Как реализованы блоки и про некоторые особенности работы с ними.*
   
-- [Objective-C Blocks Caveat](http://albertodebortoli.com/blog/2013/08/03/objective-c-blocks-caveat/)
+- [Objective-C Blocks Caveat](https://albertodebortoli.com/2013/08/03/objective-c-blocks-caveat/)
 
   **Автор:** Alberto De Bortoli.
 
