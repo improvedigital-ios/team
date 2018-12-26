@@ -1,1 +1,0 @@
-# Rambler Swift Style Guide

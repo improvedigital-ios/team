@@ -1,1 +1,0 @@
-# Rambler Objective-C Style Guide
